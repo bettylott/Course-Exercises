@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F844462F1A70B88300A8B4F3"
-               BuildableName = "Course Exercises.app"
-               BlueprintName = "Course Exercises"
-               ReferencedContainer = "container:Course Exercises.xcodeproj">
+               BlueprintIdentifier = "F84446931A7275D000A8B4F3"
+               BuildableName = "contractMgr.app"
+               BlueprintName = "contractMgr"
+               ReferencedContainer = "container:contractMgr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F84446481A70B88300A8B4F3"
-               BuildableName = "Course ExercisesTests.xctest"
-               BlueprintName = "Course ExercisesTests"
-               ReferencedContainer = "container:Course Exercises.xcodeproj">
+               BlueprintIdentifier = "F84446AF1A7275D000A8B4F3"
+               BuildableName = "contractMgrTests.xctest"
+               BlueprintName = "contractMgrTests"
+               ReferencedContainer = "container:contractMgr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F84446481A70B88300A8B4F3"
-               BuildableName = "Course ExercisesTests.xctest"
-               BlueprintName = "Course ExercisesTests"
-               ReferencedContainer = "container:Course Exercises.xcodeproj">
+               BlueprintIdentifier = "F84446AF1A7275D000A8B4F3"
+               BuildableName = "contractMgrTests.xctest"
+               BlueprintName = "contractMgrTests"
+               ReferencedContainer = "container:contractMgr.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F844462F1A70B88300A8B4F3"
-            BuildableName = "Course Exercises.app"
-            BlueprintName = "Course Exercises"
-            ReferencedContainer = "container:Course Exercises.xcodeproj">
+            BlueprintIdentifier = "F84446931A7275D000A8B4F3"
+            BuildableName = "contractMgr.app"
+            BlueprintName = "contractMgr"
+            ReferencedContainer = "container:contractMgr.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F844462F1A70B88300A8B4F3"
-            BuildableName = "Course Exercises.app"
-            BlueprintName = "Course Exercises"
-            ReferencedContainer = "container:Course Exercises.xcodeproj">
+            BlueprintIdentifier = "F84446931A7275D000A8B4F3"
+            BuildableName = "contractMgr.app"
+            BlueprintName = "contractMgr"
+            ReferencedContainer = "container:contractMgr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F844462F1A70B88300A8B4F3"
-            BuildableName = "Course Exercises.app"
-            BlueprintName = "Course Exercises"
-            ReferencedContainer = "container:Course Exercises.xcodeproj">
+            BlueprintIdentifier = "F84446931A7275D000A8B4F3"
+            BuildableName = "contractMgr.app"
+            BlueprintName = "contractMgr"
+            ReferencedContainer = "container:contractMgr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
